@@ -1,0 +1,48 @@
+
+{
+    "Doctors": [
+        {
+        "Availability":"Both",
+        "Specialization":"behaviour in psychology",
+        "Id":"99",
+        "Name":"DR.joshi"
+    }, 
+   
+     {"Availability":"AM",
+        "Specialization":"physician",
+        "Id":"1",
+        "Name":"DR. pooja"
+    },
+    
+     {"Availability":"PM",
+        "Specialization":"physician",
+        "Id":"2",
+        "Name":"DR. Vivek "
+    },
+   
+     {"Availability":"AM",
+        "Specialization":"cardiologist",
+        "Id":"3",
+        "Name":"DR. Prach "
+    },
+    
+     {"Availability":"PM",
+        "Specialization":"Neurologist",
+        "Id":"6",
+        "Name":"DR. Teja"
+    },
+    
+     {"Availability":"AM",
+        "Specialization":"poo",
+        "Id":"12234",
+        "Name":"prasad"
+    },
+    
+     {"Availability":"af",
+        "Specialization":"agfi",
+        "Id":"54",
+        "Name":"acsdc"
+    }
+]
+    
+}
